@@ -7,5 +7,6 @@ public class deneme {
     @Test
     public void test01() {
         System.out.println("deneme");
+        System.out.println("fatmanur branch");
     }
 }
