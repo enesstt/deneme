@@ -7,5 +7,6 @@ public class denemesuleyman {
 
         System.out.println("suleyman branch");
         System.out.println("enes yazdı");
+        System.out.println("deneme5");
     }
 }
