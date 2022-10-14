@@ -11,5 +11,7 @@ public class denemesuleyman {
 
         System.out.println("enes yazdı");
 
+
+        System.out.println("deneme3");
     }
 }
