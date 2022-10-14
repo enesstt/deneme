@@ -8,5 +8,6 @@ public class deneme {
     public void test01() {
         System.out.println("deneme");
         System.out.println("enes brachinde yazdım");
+        System.out.println("enessss" );
     }
 }
